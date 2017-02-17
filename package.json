@@ -1,0 +1,27 @@
+{
+  "name": "hack-ucsc-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbjw/hack-ucsc-2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbjw/hack-ucsc-2017/issues"
+  },
+  "homepage": "https://github.com/jbjw/hack-ucsc-2017#readme"
+}
